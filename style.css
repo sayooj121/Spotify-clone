@@ -250,6 +250,7 @@ header .master-play .bar .bar2 {
   width: 0%;
   height: 100%;
   top: 0;
+  transition: 1s linear;
 }
 header .master-play .bar .dot {
   position: absolute;
@@ -312,6 +313,7 @@ header .master-play .vol .vol-bar {
   width: 0%;
   height: 100%;
   top: 0;
+  transition: 1s linear;
 }
 header .master-play .vol .dot {
   position: absolute;
